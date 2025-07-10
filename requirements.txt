@@ -1,0 +1,15 @@
+sentence-transformers==2.2.2
+langchain
+flask
+pypdf
+python-dotenv
+psycopg2-binary
+openai
+langchain-core
+langchainhub
+langchain-community
+langchain-openai
+langchain-experimental
+PyMuPDF
+docx
+-e .
